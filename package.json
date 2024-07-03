@@ -1,0 +1,20 @@
+{
+  "name": "5sw8_objectoriantedprogram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SumairaShakeel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  }
+}
